@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-linear-measure",
+  "name": "leaflet-linear.measurement",
   "version": "0.0.1",
   "dependencies": {
     "gulp": "^3.9.0",
