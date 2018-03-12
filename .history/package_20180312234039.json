@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "gulp-sass": "^2.3.2"
-  },
-  "main": "dist/Leaflet.LinearMeasurement.js"
+  }
+  "main": "dist/gisviewer.js",
 }

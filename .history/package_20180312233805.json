@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.linear.measurement",
+  "name": "leaflet-linear.measurement",
   "version": "0.0.1",
   "dependencies": {
     "gulp": "^3.9.0",
@@ -8,6 +8,5 @@
   },
   "devDependencies": {
     "gulp-sass": "^2.3.2"
-  },
-  "main": "dist/Leaflet.LinearMeasurement.js"
+  }
 }
