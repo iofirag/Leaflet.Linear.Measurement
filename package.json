@@ -1,6 +1,6 @@
 {
   "name": "leaflet-linear-measure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-clean": "^0.3.1",
