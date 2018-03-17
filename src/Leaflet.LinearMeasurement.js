@@ -75,7 +75,6 @@
         initRuler: function () {
             var me = this,
                 map = this._map;
-            debugger
             if (!this.mainLayer) {
                 this.mainLayer = L.featureGroup();
             }
